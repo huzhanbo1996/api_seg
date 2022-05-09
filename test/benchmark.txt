@@ -1,0 +1,6 @@
+2	5	13.25s	142.34KWords/s
+2	8	12.19s	154.73KWords/s
+2	10	12.37s	152.50KWords/s
+8	5	60.69s	124.33KWords/s
+8	8	59.40s	127.02KWords/s
+8	10	60.59s	124.53KWords/s
